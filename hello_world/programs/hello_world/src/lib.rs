@@ -17,5 +17,6 @@ pub mod hello_world {
 
     pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
         initialize::handler(ctx)
+        
     }
 }
