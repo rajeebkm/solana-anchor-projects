@@ -1,0 +1,3 @@
+[submodule "beginner-crash-course"]
+	path = beginner-crash-course
+	url = https://github.com/Solana-Workshops/beginner-crash-course.git
